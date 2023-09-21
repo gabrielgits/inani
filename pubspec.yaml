@@ -1,0 +1,16 @@
+name: inani
+description: Flutter Package to help you animate your widgets on entry.
+version: 0.1.0
+homepage: https://github.com/gabrielgits/inani.git
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
