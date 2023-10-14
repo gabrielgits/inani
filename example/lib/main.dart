@@ -59,6 +59,7 @@ class HomePage extends StatelessWidget {
         SizedBox(
           height: 400,
           child: InaniCross(
+            heightSpace: 50,
             children: [
               InaniContainer(
                 color: Colors.red,

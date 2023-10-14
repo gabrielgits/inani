@@ -18,8 +18,8 @@ Flutter Package to help you animate your widgets on entry.
 2. To use this package, add inani as dependency in your `pubspec.yaml` file:
 
 ```yaml
-dependencies:
-   inani:
+  inani:
+    git: https://github.com/gabrielgits/inani.git
 ```
 
 3. Import the package into your dart file:
