@@ -39,7 +39,7 @@ class _InaniCrossState extends State<InaniCross> {
   @override
   Widget build(BuildContext context) {
     double height = 1;
-    double space = 0;
+    double space = widget.heightSpace;
     return Stack(
       children: <Widget>[
         for (int i = 0;
